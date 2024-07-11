@@ -1,0 +1,3 @@
+tailwind css , postcss, autoprefixer - dependencies
+
+npm install -D tailwindcss postcss autoprefixer
